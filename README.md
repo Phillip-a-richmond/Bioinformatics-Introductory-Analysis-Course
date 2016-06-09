@@ -19,41 +19,80 @@ The purpose of this course is to provide an introduction to Bioinformatics and G
 [Test Slideshare Link](http://www.slideshare.net/PhillipAndrewRichmon/slideshelf)
 
 ### Course Outline
-
+##### Section I: Introductions, Linux/Unix, WestGrid 
 + Introduction to Next Generation Sequencing, Bioinformatics, and Computing
 + Getting set-up on WestGrid
   + Login to WestGrid 
-  + Slides
   + [Specs of Orcinus](https://www.westgrid.ca/support/systems/Orcinus)
+  + Slides
+  + Video
+  + In Class Assignment
 + Exploring Linux/Unix
+  + Intro to linux environment
+    + ls, mkdir, cp, mv, rm
+    + permissions
+    + Man pages
+    + File creation
+  + Slides
+  + Video
+  + In Class Assignment
 + Advanced Linux/Unix
   + File Management
     + Compression
     + Downloading (wget)
     + Remote Copy (scp)
   + File Editing
+  + Slides
+  + Video
+  + In Class Assignment
 + File formats, Organization, Documentation
   + Directory Hierarchies
   + FASTQ, FASTA, SAM, BAM
+  + Slides
+  + Video
+  + In Class Assignment
 + Interacting with the queue
   + Job Submission
   + Job Tracking
+  + Slides
+  + Video
+  + In Class Assignment
+
+##### Section II: Introduction to Genomics: Mapping, Variant Calling, Assembly, RNAseq
 + Reference-based short-read mapping
   + Bowtie2 Install
   + Samtools Install
+  + Slides
+  + Video
+  + In Class Assignment
 + Data visualization
-  + IGV
+  + IGV with S288c genome
+  + Slides
+  + Video
+  + In Class Assignment
 + Variant Calling
+  + GATK?  
   + Samtools mpileup
+  + Slides
+  + Video
+  + In Class Assignment
 + Genome Assembly
   + Velvet
   + Abyss
+  + Slides
+  + Video
+  + In Class Assignment
 + RNAseq
   + Bowtie2
   + HTSeq
   + DESeq2
   + EdgeR
+  + Slides
+  + Video
+  + In Class Assignment
 
+##### Section III: BYOD (Bring your own datasets)
+This section is open to those who want to explore their own datasets and receive help with processing and data analysis.  
 
 Feedback?  Suggestions?  Don't hesitate to contact me:
 
