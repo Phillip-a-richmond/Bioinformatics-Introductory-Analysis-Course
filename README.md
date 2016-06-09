@@ -34,7 +34,7 @@ Phillip Richmond | PhD Student, Bioinformatics, UBC | prichmond@ubc.ca or philli
   + [Specs of Orcinus](https://www.westgrid.ca/support/systems/Orcinus)
   + Slides
   + Video
-  + In Class Assignment
+  + [In Class Assignment](https://github.com/Phillip-a-richmond/Bioinformatics-Introductory-Analysis-Course/blob/master/InClassAssignmentSection2.md)
 3. Exploring Linux/Unix
   + Intro to linux environment
     + ls, mkdir, cp, mv, rm
