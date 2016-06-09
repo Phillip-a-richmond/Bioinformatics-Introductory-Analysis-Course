@@ -41,9 +41,11 @@ Phillip Richmond | PhD Student, Bioinformatics, UBC | prichmond@ubc.ca or philli
     + permissions
     + Man pages
     + File creation
+  + Intermediate Linux commands
+    + sort, cut, paste, df, du, grep
   + Slides
   + Video
-  + In Class Assignment
+  + [In Class Assignment](https://github.com/Phillip-a-richmond/Bioinformatics-Introductory-Analysis-Course/blob/master/InClassAssignmentSection3.md)
   + For more practice, do [these exercises](http://www.ee.surrey.ac.uk/Teaching/Unix/index.html)
 4. Advanced Linux/Unix
   + File Management
