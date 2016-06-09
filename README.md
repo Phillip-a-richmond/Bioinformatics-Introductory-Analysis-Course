@@ -12,13 +12,19 @@ Phillip Richmond | PhD Student, Bioinformatics, UBC | prichmond@ubc.ca or philli
 ### Course Purpose
 >The purpose of this course is to provide an introduction to Bioinformatics and Genomics as it pertains to short-read sequencing analysis, with a specific focus on brewing and fermentation yeast strains.  Taught in an inverted classroom format, there will be screencasts and lecture notes for each section that can be gone through independently, and in class we will simply work on example datasets and problem sets.
 
-### General Course Information
-+ Course outline described below
-+ WestGrid access is required, and is different for a PI vs. a student
-  + For a Westgrid Account, register by following these [instructions](https://www.computecanada.ca/research-portal/account-management/apply-for-an-account/).  Realize that the process can take several days! 
-+ Videos are hosted via YouTube at Phil Richmond's YouTube Channel [here](https://www.youtube.com/channel/UC6B7cpEwSZTdbPd0d9G2JXg)
-+ Slides, Assignments, and Quizzes are hosted via Google Drive [here](https://drive.google.com/drive/u/0/folders/0B3TGYF-7rCLnWjFJRVlHcVN5Nk0)
-+ 
+### General Course Information & Prerequisites
++ Prerequisites
+  + WestGrid access is required, and is different for a PI vs. a student
+    + For a Westgrid Account, register by following these [instructions](https://www.computecanada.ca/research-portal/account-management/apply-for-an-account/).  Realize that the process can take several days! 
+  + For mac/linux users, only need native terminal which comes with the operating system
+  + For PC users, download and install [MobaXterm](http://mobaxterm.mobatek.net/)
++ General Course Info
+  + Videos are hosted via YouTube at Phil Richmond's YouTube Channel [here](https://www.youtube.com/channel/UC6B7cpEwSZTdbPd0d9G2JXg)
+  + Slides, Assignments, and Quizzes are hosted via Google Drive [here](https://drive.google.com/drive/u/0/folders/0B3TGYF-7rCLnWjFJRVlHcVN5Nk0)
+  + Extra resources:
+    + [Linux/Unix Cheatsheet](
+    + [Linux/Unix online tutorial](http://www.ee.surrey.ac.uk/Teaching/Unix/)
+    + 
 
 ### Course Outline
 ##### Section I: Introductions, Linux/Unix, WestGrid 
