@@ -22,7 +22,7 @@ Phillip Richmond | PhD Student, Bioinformatics, UBC | prichmond@ubc.ca or philli
   + Extra resources:
     + [Linux/Unix Cheatsheet](https://github.com/Phillip-a-richmond/Bioinformatics-Introductory-Analysis-Course/blob/master/UnixCheatSheet.pdf)
     + [Linux/Unix online tutorial](http://www.ee.surrey.ac.uk/Teaching/Unix/)
-    + 
+    
 
 #### Course Outline
 ##### Section I: Introductions, Linux/Unix, WestGrid 
