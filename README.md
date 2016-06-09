@@ -37,13 +37,14 @@ Phillip Richmond | PhD Student, Bioinformatics, UBC | prichmond@ubc.ca or philli
   + [In Class Assignment](https://github.com/Phillip-a-richmond/Bioinformatics-Introductory-Analysis-Course/blob/master/InClassAssignmentSection2.md)
 3. Exploring Linux/Unix
   + Intro to linux environment
-    + ls, mkdir, cp, mv, rm
+    + ls, mkdir, cp, mv, rm, cat, more, less, head, tail
     + permissions
     + Man pages
     + File creation
   + Slides
   + Video
   + In Class Assignment
+  + For more practice, do [these exercises](http://www.ee.surrey.ac.uk/Teaching/Unix/index.html)
 4. Advanced Linux/Unix
   + File Management
     + Compression
