@@ -50,6 +50,7 @@ Phillip Richmond | PhD Student, Bioinformatics, UBC | prichmond@ubc.ca or philli
     + Downloading (wget)
     + Remote Copy (scp)
   + File Editing
+    + vi, emacs, nano
   + Slides
   + Video
   + In Class Assignment
@@ -67,30 +68,34 @@ Phillip Richmond | PhD Student, Bioinformatics, UBC | prichmond@ubc.ca or philli
   + In Class Assignment
 
 ##### Section II: Introduction to Genomics: Mapping, Variant Calling, Assembly, RNAseq
-7. Reference-based short-read mapping
+7. Intro to NCBI BLAST, SRA
+  + Slides
+  + Video
+  + In Class Assignment
+8. Reference-based short-read mapping
   + Bowtie2 Install
   + Samtools Install
   + Slides
   + Video
   + In Class Assignment
-8. Data visualization
+9. Data visualization
   + IGV with S288c genome
   + Slides
   + Video
   + In Class Assignment
-9. Variant Calling
+10. Variant Calling
   + GATK?  
   + Samtools mpileup
   + Slides
   + Video
   + In Class Assignment
-10. Genome Assembly
+11. Genome Assembly
   + Velvet
   + Abyss
   + Slides
   + Video
   + In Class Assignment
-11. RNAseq
+12. RNAseq
   + Bowtie2
   + HTSeq
   + DESeq2
