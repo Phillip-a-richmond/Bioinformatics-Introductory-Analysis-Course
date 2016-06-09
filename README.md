@@ -7,7 +7,6 @@ Course Instructor | Affiliation | Email Address(es) | github ID | Phone Number
 Phillip Richmond | PhD Student, Bioinformatics, UBC | prichmond@ubc.ca or phillip.a.richmond@gmail.com | [@Phillip-a-Richmond](https://github.com/Phillip-a-richmond) | (604)655-3595
 
 
-
 ##### IF YOU ARE TAKING THIS COURSE, YOU NEED TO HAVE A WESTGRID ACCOUNT!
 For a Westgrid Account, register by following these [instructions](https://www.computecanada.ca/research-portal/account-management/apply-for-an-account/).  Realize that the process can take several days! 
 
