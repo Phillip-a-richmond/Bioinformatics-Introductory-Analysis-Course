@@ -16,7 +16,7 @@
 10. Change into the /global/scratch/WRC/ directory.
 11. Make a directory with your last name as the directory's name.
 12. Change into the TypesOfWine directory in the /global/scratch/WRC/ parent directory. 
-13. Create a new file titled: <lastname>_<typeOfWine>.txt.  Make sure you don't reuse a type of wine that someone else has already listed  (Note: When you see me use characters like this, I want you to replace what's in the <> with your own information, ex: Richmond_Malbec.txt)
+13. Create a new file titled: \<lastname\>_\<typeOfWine\>.txt.  Make sure you don't reuse a type of wine that someone else has already listed  (Note: When you see me use characters like this, I want you to replace what's in the <> with your own information, ex: Richmond_Malbec.txt)
 14. It's bad practice to have the same directory names in multiple places.  Go back to your home directory and change the name of your TypesOfWine directory to: Types_of_Wine
 
 ### Part II (chmod, cat, more, less, head, tail, sort, cut, paste, grep)
