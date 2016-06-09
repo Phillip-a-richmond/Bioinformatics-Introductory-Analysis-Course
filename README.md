@@ -21,6 +21,8 @@ The purpose of this course is to provide an introduction to Bioinformatics and G
 
 + Introduction to Next Generation Sequencing, Bioinformatics, and Computing
 + Getting set-up on WestGrid
+  + Slides
+  + [Specs of Orcinus](https://www.westgrid.ca/support/systems/Orcinus)
 + Exploring Linux/Unix
 + Advanced Linux/Unix
   + File Management
