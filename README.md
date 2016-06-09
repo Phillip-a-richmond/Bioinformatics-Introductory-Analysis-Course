@@ -1,14 +1,12 @@
-# Bioinformatics-Introductory-Analysis-Course
+## Bioinformatics-Introductory-Analysis-Course
 This repository contains course material for Phillip Richmond's Introduction to Bioinformatics Analysis Course
 
 ### Contact Info
-*Phillip Richmond*
-
-*PhD Student, Wasserman Lab, Centre for Molecular Medicine and Therapeutics*;
-*Child and Family Research Institute, University of British Columbia*;
-
-*Email: prichmond@cmmt.ubc.ca* 
-*Phone: (604)655-3595* 
+>*Phillip Richmond*
+>*PhD Student, Wasserman Lab, Centre for Molecular Medicine and Therapeutics*;
+>*Child and Family Research Institute, University of British Columbia*;
+>*Email: prichmond@cmmt.ubc.ca* 
+>*Phone: (604)655-3595* 
 
 ##### IF YOU ARE TAKING THIS COURSE, YOU NEED TO HAVE A WESTGRID ACCOUNT!
 For a Westgrid Account, register by following these [instructions](https://www.computecanada.ca/research-portal/account-management/apply-for-an-account/).  Realize that the process can take several days! 
