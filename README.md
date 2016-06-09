@@ -7,13 +7,18 @@ Course Instructor | Affiliation | Email Address(es) | github ID | Phone Number
 Phillip Richmond | PhD Student, Bioinformatics, UBC | prichmond@ubc.ca or phillip.a.richmond@gmail.com | [@Phillip-a-Richmond](https://github.com/Phillip-a-richmond) | (604)655-3595
 
 
-##### IF YOU ARE TAKING THIS COURSE, YOU NEED TO HAVE A WESTGRID ACCOUNT!
-For a Westgrid Account, register by following these [instructions](https://www.computecanada.ca/research-portal/account-management/apply-for-an-account/).  Realize that the process can take several days! 
+
 
 ### Course Purpose
 >The purpose of this course is to provide an introduction to Bioinformatics and Genomics as it pertains to short-read sequencing analysis, with a specific focus on brewing and fermentation yeast strains.  Taught in an inverted classroom format, there will be screencasts and lecture notes for each section that can be gone through independently, and in class we will simply work on example datasets and problem sets.
 
-
+### General Course Information
++ Course outline described below
++ WestGrid access is required, and is different for a PI vs. a student
+  + For a Westgrid Account, register by following these [instructions](https://www.computecanada.ca/research-portal/account-management/apply-for-an-account/).  Realize that the process can take several days! 
++ Videos are hosted via YouTube at Phil Richmond's YouTube Channel [here](https://www.youtube.com/channel/UC6B7cpEwSZTdbPd0d9G2JXg)
++ Slides, Assignments, and Quizzes are hosted via Google Drive [here](https://drive.google.com/drive/u/0/folders/0B3TGYF-7rCLnWjFJRVlHcVN5Nk0)
++ 
 
 ### Course Outline
 ##### Section I: Introductions, Linux/Unix, WestGrid 
