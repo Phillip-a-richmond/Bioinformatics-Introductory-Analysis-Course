@@ -10,7 +10,8 @@ This repository contains course material for Phillip Richmond's Introduction to 
 *Email: prichmond@cmmt.ubc.ca* 
 *Phone: (604)655-3595* 
 
-
+##### IF YOU ARE TAKING THIS COURSE, YOU NEED TO HAVE A WESTGRID ACCOUNT!
+For a Westgrid Account, register by following these [instructions](https://www.computecanada.ca/research-portal/account-management/apply-for-an-account/).  Realize that the process can take several days! 
 
 ### Course Purpose
 The purpose of this course is to provide an introduction to Bioinformatics and Genomics as it pertains to short-read sequencing analysis, with a specific focus on brewing and fermentation yeast strains.  Taught in an inverted classroom format, there will be screencasts and lecture notes for each section that can be gone through independently, and in class we will simply work on example datasets and problem sets.
@@ -21,6 +22,7 @@ The purpose of this course is to provide an introduction to Bioinformatics and G
 
 + Introduction to Next Generation Sequencing, Bioinformatics, and Computing
 + Getting set-up on WestGrid
+  + Login to WestGrid 
   + Slides
   + [Specs of Orcinus](https://www.westgrid.ca/support/systems/Orcinus)
 + Exploring Linux/Unix
