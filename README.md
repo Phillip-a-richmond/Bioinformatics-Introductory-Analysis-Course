@@ -2,11 +2,11 @@
 This repository contains course material for Phillip Richmond's Introduction to Bioinformatics Analysis Course
 
 ### Contact Info
->*Phillip Richmond*
->*PhD Student, Wasserman Lab, Centre for Molecular Medicine and Therapeutics*;
->*Child and Family Research Institute, University of British Columbia*;
->*Email: prichmond@cmmt.ubc.ca* 
->*Phone: (604)655-3595* 
+Course Instructor | Affiliation | Email Address(es) | github ID | Phone Number
+--- | --- | --- | --- | ---
+Phillip Richmond | PhD Student, Bioinformatics, UBC | prichmond@ubc.ca or phillip.a.richmond@gmail.com | [@Phillip-a-Richmond](https://github.com/Phillip-a-richmond) | (604)655-3595
+
+
 
 ##### IF YOU ARE TAKING THIS COURSE, YOU NEED TO HAVE A WESTGRID ACCOUNT!
 For a Westgrid Account, register by following these [instructions](https://www.computecanada.ca/research-portal/account-management/apply-for-an-account/).  Realize that the process can take several days! 
@@ -18,8 +18,10 @@ The purpose of this course is to provide an introduction to Bioinformatics and G
 
 ### Course Outline
 ##### Section I: Introductions, Linux/Unix, WestGrid 
-+ Introduction to Next Generation Sequencing, Bioinformatics, and Computing
-+ Getting set-up on WestGrid
+1. Introduction to Next Generation Sequencing, Bioinformatics, and Computing
+  + Slides
+  + Video
+2. Getting set-up on WestGrid
   + Login to WestGrid 
   + [Specs of Orcinus](https://www.westgrid.ca/support/systems/Orcinus)
   + Slides
