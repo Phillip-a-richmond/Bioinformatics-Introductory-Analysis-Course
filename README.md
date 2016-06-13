@@ -24,23 +24,28 @@ This repository contains course material for Phillip Richmond's Introduction to 
 1. Introduction to Next Generation Sequencing, Bioinformatics, and Computing
   + Slides
   + Video
-2. Getting set-up on WestGrid
+2. Getting set-up on WestGrid and using terminal
+  + Open up a terminal
+  + Customize terminal
   + Login to WestGrid 
   + [Specs of Orcinus](https://www.westgrid.ca/support/systems/Orcinus)
   + Slides
   + Video
-  + [In Class Assignment](https://github.com/Phillip-a-richmond/Bioinformatics-Introductory-Analysis-Course/blob/master/InClassAssignmentSection2.md)
+  + [PC User MobaXterm guide]
+  + [In Class Assignment Section I-2](https://github.com/Phillip-a-richmond/Bioinformatics-Introductory-Analysis-Course/blob/master/InClassAssignmentSection2.md)
 3. Exploring Linux/Unix
-  + Intro to linux environment
+  + Intro to linux environment (3a)
     + ls, mkdir, cp, mv, rm, cat, more, less, head, tail
     + permissions
     + Man pages
     + File creation
-  + Intermediate Linux commands
+    + Slides
+    + Video
+  + Intermediate Linux commands (3b)
     + sort, cut, paste, df, du, grep
-  + Slides
-  + Video
-  + [In Class Assignment](https://github.com/Phillip-a-richmond/Bioinformatics-Introductory-Analysis-Course/blob/master/InClassAssignmentSection3.md)
+    + Slides
+    + Video
+  + [In Class Assignment Section I-3](https://github.com/Phillip-a-richmond/Bioinformatics-Introductory-Analysis-Course/blob/master/InClassAssignmentSection3.md)
   + For more practice, do [these exercises](http://www.ee.surrey.ac.uk/Teaching/Unix/index.html)
 4. Advanced Linux/Unix
   + File Management
