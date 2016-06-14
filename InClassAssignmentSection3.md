@@ -9,7 +9,7 @@
 3. Change into the directory that you just created.
 4. Make a new directory inside of TypesOfWine called: Reds
 5. Make another directory inside of TypesOfWine called: Whites
-6. Change into the Whites directory, and make a file called: Cabarnet_Sauvignon
+6. Change into the Whites directory, and make an empty file called (hint: $ touch <filename>) : Cabarnet_Sauvignon
 7. Wait a minute, the spelling doesn't seem right here.  Change the name of the file to be: Cabernet_Sauvignon
 8. It takes a real fool to think that this is a type of white wine.  Move this file into the Reds directory.
 9. Go back to your home directory, and list out all the files in a recursive manner (hint: man ls).
