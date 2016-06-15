@@ -22,27 +22,27 @@ This repository contains course material for Phillip Richmond's Introduction to 
 #### Course Outline
 ##### Section I: Introductions, Linux/Unix, WestGrid 
 1. Introduction to Next Generation Sequencing, Bioinformatics, and Computing
-  + Slides
+  + [Slides](https://drive.google.com/open?id=0B3TGYF-7rCLnZzlhUmdqc29XMlE)
   + Video
 2. Getting set-up on WestGrid and using terminal
   + Open up a terminal
   + Customize terminal
   + Login to WestGrid 
   + [Specs of Orcinus](https://www.westgrid.ca/support/systems/Orcinus)
-  + Slides
+  + [Slides](https://drive.google.com/open?id=0B3TGYF-7rCLnZU5TYzdZLUlXZG8)
   + Video
   + [PC User MobaXterm guide]
   + [In Class Assignment Section I-2](https://github.com/Phillip-a-richmond/Bioinformatics-Introductory-Analysis-Course/blob/master/InClassAssignmentSection2.md)
 3. Exploring Linux/Unix
   + Intro to linux environment (3a)
-    + ls, mkdir, cp, mv, rm, cat, more, less, head, tail
+    + ls, mkdir, cp, mv, rm, cat, more, less
     + permissions
     + Man pages
     + File creation
-    + Slides
+    + [Slides](https://drive.google.com/open?id=0B3TGYF-7rCLncEZPbVFqa29nWUE)
     + Video
   + Intermediate Linux commands (3b)
-    + sort, cut, paste, df, du, grep
+    + head, tail, sort, cut, paste, df, du, grep, find
     + Slides
     + Video
   + [In Class Assignment Section I-3](https://github.com/Phillip-a-richmond/Bioinformatics-Introductory-Analysis-Course/blob/master/InClassAssignmentSection3.md)
