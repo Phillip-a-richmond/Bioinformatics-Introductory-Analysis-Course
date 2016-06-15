@@ -36,26 +36,27 @@ This repository contains course material for Phillip Richmond's Introduction to 
 3. Exploring Linux/Unix
   + Intro to linux environment (3a)
     + ls, mkdir, cp, mv, rm, cat, more, less
-    + permissions
     + Man pages
     + File creation
     + [Slides](https://drive.google.com/open?id=0B3TGYF-7rCLncEZPbVFqa29nWUE)
     + Video
   + Intermediate Linux commands (3b)
-    + head, tail, sort, cut, paste, df, du, grep, find
+    + head, tail, sort, cut, paste, df, du, grep, find, permissions
     + Slides
     + Video
   + [In Class Assignment Section I-3](https://github.com/Phillip-a-richmond/Bioinformatics-Introductory-Analysis-Course/blob/master/InClassAssignmentSection3.md)
   + For more practice, do [these exercises](http://www.ee.surrey.ac.uk/Teaching/Unix/index.html)
 4. Advanced Linux/Unix
-  + File Management
+  + File Management (4a)
     + Compression
     + Downloading (wget)
     + Remote Copy (scp)
-  + File Editing
+    + Slides
+    + Video
+  + File Editing (4b)
     + vi, emacs, nano
-  + Slides
-  + Video
+    + Slides
+    + Video
   + In Class Assignment
 5. File formats, Organization, Documentation
   + Directory Hierarchies
