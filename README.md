@@ -24,7 +24,7 @@ This repository contains course material for Phillip Richmond's Introduction to 
 #### Course Outline
 ##### Section I: Introductions, Linux/Unix, WestGrid 
 1. Introduction to Next Generation Sequencing, Bioinformatics, and Computing
-  + [Slides](https://drive.google.com/open?id=0B3TGYF-7rCLnZzlhUmdqc29XMlE)
+  + [Slides](https://drive.google.com/open?id=0B3TGYF-7rCLnR3VDeENSc1NHbFU)
   + Video
 2. Getting set-up on WestGrid and using terminal
   + Open up a terminal
