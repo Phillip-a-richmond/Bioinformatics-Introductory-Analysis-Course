@@ -9,6 +9,8 @@ This repository contains course material for Phillip Richmond's Introduction to 
   + WestGrid access is required, and is different for a PI vs. a student
     + Westgrid Account information [here](https://www.westgrid.ca/support/accounts/getting_account)
     + For a Westgrid Account, register by following these [instructions](https://www.computecanada.ca/research-portal/account-management/apply-for-an-account/).  Realize that the process can take several days! 
+  + GitHub Account
+    + It's free, and you can sign up [here](https://github.com/)
   + For mac/linux users, only need native terminal which comes with the operating system
   + For PC users, download and install [MobaXterm](http://mobaxterm.mobatek.net/)
 + General Course Info
