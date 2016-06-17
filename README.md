@@ -6,7 +6,7 @@
   + Do 6
 + Assignments
   + ~~Second half of 3~~
-  + Do 4
+  + ~~Do 4~~
   + Do 5
   + Do 6
 + Videos
@@ -98,7 +98,7 @@ This repository contains course material for Phillip Richmond's Introduction to 
     + [WinSCP](https://winscp.net/eng/download.php)
   + Slides
   + Video
-  + In Class Assignment
+  + [In Class Assignment](https://github.com/Phillip-a-richmond/Bioinformatics-Introductory-Analysis-Course/blob/master/InClassAssignmentSection4.md)
 5. File formats, Organization, Documentation
   + Directory Hierarchies
   + FASTQ, FASTA, SAM, BAM
