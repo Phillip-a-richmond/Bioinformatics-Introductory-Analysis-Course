@@ -1,3 +1,25 @@
+###### ToDo June 17 2016, Complete by June 24th
++ Slides
+  + Finish  4a
+  + Do 4b
+  + Do 5
+  + Do 6
++ Videos
+  + Do 1
+  + Do 1a (MobaXterm on PC)
+  + Do 2
+  + Do 3a
+  + Do 3b
+  + Do 4a
+  + Do 4b
+  + Do 5
+  + Do 6
+
+###### ToDo June 24th, Complete by June 30th
+
+
+
+
 ### Bioinformatics-Introductory-Analysis-Course
 This repository contains course material for Phillip Richmond's Introduction to Bioinformatics Analysis Course
 
