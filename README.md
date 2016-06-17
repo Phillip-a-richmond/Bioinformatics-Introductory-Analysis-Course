@@ -95,8 +95,8 @@ This repository contains course material for Phillip Richmond's Introduction to 
   + Other Secure Copy programs
     + [Cyberduck](http://download.cnet.com/Cyberduck/3000-2160_4-10246246.html)
     + [WinSCP](https://winscp.net/eng/download.php)
-    + Slides
-    + Video
+  + Slides
+  + Video
   + In Class Assignment
 5. File formats, Organization, Documentation
   + Directory Hierarchies
