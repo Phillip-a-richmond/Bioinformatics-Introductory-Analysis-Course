@@ -35,12 +35,20 @@ This repository contains course material for Phillip Richmond's Introduction to 
     + It's free, and you can sign up [here](https://github.com/)
   + For mac/linux users, only need native terminal which comes with the operating system
   + For PC users, download and install [MobaXterm](http://mobaxterm.mobatek.net/)
+    + [Advanced MobaXterm usage](https://www.youtube.com/watch?v=Gkl8LD1rwlU)
 + General Course Info
   + Videos are hosted via YouTube at Phil Richmond's YouTube Channel [here](https://www.youtube.com/channel/UC6B7cpEwSZTdbPd0d9G2JXg)
   + Slides, Assignments, and Quizzes are hosted via Google Drive [here](https://drive.google.com/drive/u/0/folders/0B3TGYF-7rCLnWjFJRVlHcVN5Nk0)
   + Extra resources:
     + [Linux/Unix Cheatsheet](https://github.com/Phillip-a-richmond/Bioinformatics-Introductory-Analysis-Course/blob/master/UnixCheatSheet.pdf)
     + [Linux/Unix online tutorial](http://www.ee.surrey.ac.uk/Teaching/Unix/)
+    + Editor cheat sheets
+      + [Emacs cheet sheet](http://www.rgrjr.com/emacs/emacs_cheat.html)
+      + [vi cheat sheet](http://www.lagmonster.org/docs/vi.html)
+      + [nano cheat sheet](http://www.codexpedia.com/text-editor/nano-text-editor-command-cheatsheet/)
+    + File transfer programs
+      + [Cyberduck](http://download.cnet.com/Cyberduck/3000-2160_4-10246246.html)
+      + [WinSCP](https://winscp.net/eng/download.php)
     
 
 #### Course Outline
@@ -66,19 +74,23 @@ This repository contains course material for Phillip Richmond's Introduction to 
     + Video
   + Intermediate Linux commands (3b)
     + head, tail, sort, cut, paste, df, du, grep, find, permissions
-    + Slides
+    + [Slides](https://drive.google.com/open?id=0B3TGYF-7rCLnbFRFNk03V0h6QkE)
     + Video
   + [In Class Assignment Section I-3](https://github.com/Phillip-a-richmond/Bioinformatics-Introductory-Analysis-Course/blob/master/InClassAssignmentSection3.md)
   + For more practice, do [these exercises](http://www.ee.surrey.ac.uk/Teaching/Unix/index.html)
 4. Advanced Linux/Unix
-  + File Management (4a)
+  + File Management
     + Compression
     + Downloading (wget)
     + Remote Copy (scp)
-    + Slides
-    + Video
-  + File Editing (4b)
-    + vi, emacs, nano
+  + File Editing
+    + vi, emacs, nano: Pick emacs
+    + [Emacs cheet sheet](http://www.rgrjr.com/emacs/emacs_cheat.html)
+    + [vi cheat sheet](http://www.lagmonster.org/docs/vi.html)
+    + [nano cheat sheet](http://www.codexpedia.com/text-editor/nano-text-editor-command-cheatsheet/)
+  + Other Secure Copy programs
+    + [Cyberduck](http://download.cnet.com/Cyberduck/3000-2160_4-10246246.html)
+    + [WinSCP](https://winscp.net/eng/download.php)
     + Slides
     + Video
   + In Class Assignment
