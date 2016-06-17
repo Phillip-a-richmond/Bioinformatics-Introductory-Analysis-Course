@@ -1,7 +1,11 @@
 ###### ToDo June 17 2016, Complete by June 24th
 + Slides
-  + Finish  4a
-  + Do 4b
+  + ~~Finish  4a~~
+  + ~~Do 4b~~
+  + Do 5
+  + Do 6
++ Assignments
+  + Do 4
   + Do 5
   + Do 6
 + Videos
