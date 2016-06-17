@@ -5,6 +5,7 @@
   + Do 5
   + Do 6
 + Assignments
+  + ~~Second half of 3~~
   + Do 4
   + Do 5
   + Do 6
