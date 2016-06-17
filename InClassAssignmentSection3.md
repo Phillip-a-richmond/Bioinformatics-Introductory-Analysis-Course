@@ -29,7 +29,7 @@
 5. How many genes are there on chromosome 12?
 6. Of these genes, how many of them are Dubious?
 7. Let's say that we don't want to include Dubious genes, they just sound problematic!  Grab all the non-Dubious genes from S288c_chrXII.gff and put them in a new file called: S288c_chrXII_nonDubious_genes.gff (hint, look at grep manual to find non-match lines)
-8. Fill out this table with the appropriate values, using the same processes you did in problems :
+8. Fill out this table with the appropriate values, using the same processes you did in problems 4-7:
 
   | Chromosome    | Number of Annotations | Number of Genes  | Number of non-Dubious Genes |
   | :------------- |:-------------:| -----:|----:|  
@@ -42,6 +42,10 @@
 11. The annotations the file you just created go from low to high on the chromosomal position.  Re-sort this file so that the annotations go from high to low.  (Hint, use the internet, I never taught you sort)
 12. Change the permissions on your Assignment 3 directory to allow the user, group, and world to read, write and execute.
 13. Change the permissions on the S288c_chrI_CDS.bed to be read, write, and execute for the user, but only readable for the group and world.
+
+When you are done, show Phil your Assignment 3 directory, and then help others who are still working/struggling/pulling their hair out.
+
+
 
 
 
