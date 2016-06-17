@@ -19,7 +19,7 @@
 13. Create a new file titled: \<lastname\>_\<typeOfWine\>.txt.  Make sure you don't reuse a type of wine that someone else has already listed  (Note: When you see me use characters like this, I want you to replace what's in the <> with your own information, ex: Richmond_Malbec.txt)
 14. It's bad practice to have the same directory names in multiple places.  Go back to your home directory and change the name of your TypesOfWine directory to: Types_of_Wine
 
-### Part II (cat, more, less, head, tail, sort, cut, paste, grep, chmod, history)
+### Part II (wc, cat, more, less, head, tail, sort, cut, paste, grep, chmod, history)
 15. Create a directory
 16. Copy this file into your Assignment 3 directory: /global/scratch/WRC/Assignment_3_Files/S288c.gff
 17. This gff file has both sequence and annotation in it.  We only want to keep the top of this file, up until the first fasta sequence entry.  Find the first fasta sequence entry with grep. (hint, to figure out how to print the line number look at the grep manual)
@@ -27,8 +27,14 @@
 19. Extract all the annotations for chromosome twelve from this file, and save it as: S288c_chrXII.gff  (hint, Look at the grep manual, we don't want to capture any chrXIII lines)
 20. How many genes are there on chromosome 12?
 21. Of these genes, how many of them are Dubious?
-22. Let's say that we don't want to include Dubious genes, they just sound problematic!  Grab all the non-Dubious genes from S288c_chrXII.gff and put them in a new file called: S288c_chrXII_nonDubious_genes.gff (hint, man grep)
-23. 
+22. Let's say that we don't want to include Dubious genes, they just sound problematic!  Grab all the non-Dubious genes from S288c_chrXII.gff and put them in a new file called: S288c_chrXII_nonDubious_genes.gff (hint, look at grep manual to find non-match lines)
+23. Fill out this table with the appropriate values, using the same processes you did in problems 20-22:
+| Chromosome    | Number of Annotations | Number of Genes  | Number of non-Dubious Genes |
+| ------------- |:-------------:| -----:|-- |
+| chrXII        |  | | |
+| chrIV         |  | | | 
+| chrmt         |  | | |
+
 
 
 
