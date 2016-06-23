@@ -10,10 +10,10 @@
   + Do 5
   + Do 6
 + Videos
-  + Do 1
+  + ~~Do 1~~ Edit 1 together
   + Do 1a (MobaXterm on PC)
-  + Do 2
-  + Do 3a
+  + ~~Do 2~~ On youtube
+  + ~~Do 3a~~ Edit 3A together
   + Do 3b
   + Do 4a
   + Do 4b
