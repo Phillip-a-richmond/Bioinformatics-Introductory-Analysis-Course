@@ -2,13 +2,16 @@
 + Slides
   + ~~Finish  4a~~
   + ~~Do 4b~~
-  + Do 5
+  + Do 5a
+  + Do 5b
   + Do 6
+  + Do 7
 + Assignments
   + ~~Second half of 3~~
   + ~~Do 4~~
   + Do 5
   + Do 6
+  + Do 7
 + Videos
   + ~~Do 1~~ Edit 1 together (p1, p2, p3)
   + Do 1a (MobaXterm on PC)
@@ -16,8 +19,10 @@
   + ~~Do 3a~~ Edit 3A together (p1, p2)
   + ~~Do 3b~~ Edit beginning of 3b
   + ~~Do 4~~ 
-  + Do 5
+  + Do 5a
+  + Do 5b
   + Do 6
+  + Do 7
 
 ###### ToDo June 24th, Complete by June 30th
 
@@ -53,10 +58,37 @@ This repository contains course material for Phillip Richmond's Introduction to 
     + File transfer programs
       + [Cyberduck](http://download.cnet.com/Cyberduck/3000-2160_4-10246246.html)
       + [WinSCP](https://winscp.net/eng/download.php)
-    
+
+
+#### Course Schedule
+Monday July 4th, 2016
+10:00 AM - 12:00 PM
+Videos to watch before class:
+Section I-1 and Section I-2
+
+Tuesday July 5th, 2016
+10:00 AM - 12:00 PM
+Videos to watch before class:
+Section I-3a, Section I-3b, Section I-4
+
+Wednesday July 6th, 2016
+10:00 AM - 12:00 PM
+Videos to watch before class:
+Section I-5a, Section I-5b, and Section I-6
+
+Thursday July 7th, 2016
+10:00 AM - 12:00 PM
+Video to watch before class:
+Section I-7
+
+Friday July 8th, 2016
+10:00 AM - 12:00 PM
+Individual Examination
+
+
 
 #### Course Outline
-##### Section I: Introductions, Linux/Unix, WestGrid 
+##### Section I: Introductions, Linux/Unix, WestGrid, Short Read Mapping, PBS Queue Scheduler
 1. Introduction to Next Generation Sequencing, Bioinformatics, and Computing
   + [Slides](https://drive.google.com/open?id=0B3TGYF-7rCLnR3VDeENSc1NHbFU)
   + Video
@@ -96,50 +128,54 @@ This repository contains course material for Phillip Richmond's Introduction to 
     + [Cyberduck](http://download.cnet.com/Cyberduck/3000-2160_4-10246246.html)
     + [WinSCP](https://winscp.net/eng/download.php)
   + Slides
-  + Video
+  + [Video](https://youtu.be/r9zJCo42gl8)
   + [In Class Assignment](https://github.com/Phillip-a-richmond/Bioinformatics-Introductory-Analysis-Course/blob/master/InClassAssignmentSection4.md)
-5. File formats, Organization, Documentation
-  + Directory Hierarchies
-  + FASTQ, FASTA, SAM, BAM
+5. Intro to Read Mapping
+  + Bowtie2 & Samtools (5a)
+    + Build genome index
+    + Map paired reads
+    + Interpret standard error
+    + Convert bam 2 sam (samtools index)
+    + Sort bam (samtools sort)
+  + Organization and file types (5b)
+    + Directory Hierarchies
+    + FASTQ, FASTA, SAM, BAM
   + Slides
   + Video
   + In Class Assignment
-6. Interacting with the queue
+6. Data visualization
+  + IGV with S288c genome
+  + Slides
+  + Video
+  + In Class Assignment
+7. Interacting with the queue
   + Job Submission
   + Job Tracking
   + Slides
   + Video
   + In Class Assignment
 
-##### Section II: Introduction to Genomics: Mapping, Variant Calling, Assembly, RNAseq
-7. Intro to NCBI BLAST, SRA
+##### In class test
+> The in-class test will be an individual examination, so you won't be able to work together in groups for it.  The test will be comprehensive for all the things we learned in Section I, and if you are able to complete the assignments for each section, then the test should take only ~ 30 minutes.  You will have a 2 hour block to complete the test.  If you are unable to do so, then you won't be able to move on to Section II.  
+
+##### Section II: Introduction to Applied Genomics: Variant Calling, Assembly, RNAseq
+8. Intro to NCBI BLAST, SRA
   + Slides
   + Video
   + In Class Assignment
-8. Reference-based short-read mapping
-  + Bowtie2 Install
-  + Samtools Install
-  + Slides
-  + Video
-  + In Class Assignment
-9. Data visualization
-  + IGV with S288c genome
-  + Slides
-  + Video
-  + In Class Assignment
-10. Variant Calling
+9. Variant Calling
   + GATK?  
   + Samtools mpileup
   + Slides
   + Video
   + In Class Assignment
-11. Genome Assembly
+10. Genome Assembly
   + Velvet
   + Abyss
   + Slides
   + Video
   + In Class Assignment
-12. RNAseq
+11. RNAseq
   + Bowtie2
   + HTSeq
   + DESeq2
