@@ -61,20 +61,20 @@ This repository contains course material for Phillip Richmond's Introduction to 
 
 
 #### Course Schedule
-Monday July 4th, 2016
-10:00 AM - 12:00 PM
-Videos to watch before class:
+Monday July 4th, 2016.
+10:00 AM - 12:00 PM.
+Videos to watch before class.
 Section I-1 and Section I-2
 
-Tuesday July 5th, 2016
-10:00 AM - 12:00 PM
-Videos to watch before class:
-Section I-3a, Section I-3b, Section I-4
+Tuesday July 5th, 2016 
+10:00 AM - 12:00 PM 
+Videos to watch before class: 
+Section I-3a, Section I-3b, Section I-4 
 
-Wednesday July 6th, 2016
-10:00 AM - 12:00 PM
-Videos to watch before class:
-Section I-5a, Section I-5b, and Section I-6
+Wednesday July 6th, 2016 
+10:00 AM - 12:00 PM 
+Videos to watch before class: 
+Section I-5a, Section I-5b, and Section I-6 
 
 Thursday July 7th, 2016
 10:00 AM - 12:00 PM
