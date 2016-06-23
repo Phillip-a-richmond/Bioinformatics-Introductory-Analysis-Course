@@ -15,7 +15,7 @@
   + ~~Do 2~~ On youtube
   + ~~Do 3a~~ Edit 3A together (p1, p2)
   + ~~Do 3b~~ Edit beginning of 3b
-  + Do 4
+  + ~~Do 4~~ 
   + Do 5
   + Do 6
 
