@@ -2,7 +2,7 @@
 + Slides
   + ~~Finish  4a~~
   + ~~Do 4b~~
-  + Do 5a
+  + ~~Do 5a~~
   + Do 5b
   + Do 6
   + Do 7
