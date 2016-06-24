@@ -9,7 +9,7 @@
 + Assignments
   + ~~Second half of 3~~
   + ~~Do 4~~
-  + Do 5
+  + ~~Do 5~~
   + Do 6
   + Do 7
 + Videos
