@@ -45,6 +45,8 @@ This repository contains course material for Phillip Richmond's Introduction to 
   + For mac/linux users, only need native terminal which comes with the operating system
   + For PC users, download and install [MobaXterm](http://mobaxterm.mobatek.net/)
     + [Advanced MobaXterm usage](https://www.youtube.com/watch?v=Gkl8LD1rwlU)
+  + IGV installed on local machine
+    + [IGV install](https://www.broadinstitute.org/software/igv/log-in)
 + General Course Info
   + Videos are hosted via YouTube at Phil Richmond's YouTube Channel [here](https://www.youtube.com/channel/UC6B7cpEwSZTdbPd0d9G2JXg)
   + Slides, Assignments, and Quizzes are hosted via Google Drive [here](https://drive.google.com/drive/u/0/folders/0B3TGYF-7rCLnWjFJRVlHcVN5Nk0)
@@ -79,7 +81,7 @@ Section I-5a, Section I-5b, and Section I-6
 Thursday July 7th, 2016
 10:00 AM - 12:00 PM
 Video to watch before class:
-Section I-7
+Section I-7 and catchup/review
 
 Friday July 8th, 2016
 10:00 AM - 12:00 PM
@@ -160,22 +162,16 @@ Individual Examination
 
 ##### Section II: Introduction to Applied Genomics: Variant Calling, Assembly, RNAseq
 8. Intro to NCBI BLAST, SRA
+  + BLAST
   + Slides
   + Video
   + In Class Assignment
 9. Variant Calling
-  + GATK?  
   + Samtools mpileup
   + Slides
   + Video
   + In Class Assignment
-10. Genome Assembly
-  + Velvet
-  + Abyss
-  + Slides
-  + Video
-  + In Class Assignment
-11. RNAseq
+10. RNAseq
   + Bowtie2
   + HTSeq
   + DESeq2
@@ -183,7 +179,13 @@ Individual Examination
   + Slides
   + Video
   + In Class Assignment
-
+11. Transcription factor binding via ChIP-seq 
+12. Genome Assembly
+  + Velvet
+  + Abyss
+  + Slides
+  + Video
+  + In Class Assignment
 ##### Section III: BYOD (Bring your own datasets)
 This section is open to those who want to explore their own datasets and receive help with processing and data analysis.  
 
