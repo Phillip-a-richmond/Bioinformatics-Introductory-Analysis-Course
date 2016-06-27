@@ -4,14 +4,15 @@
   + ~~Do 4b~~
   + ~~Do 5a~~
   + ~~Do 5b~~
-  + Do 6
-  + Do 7
+  + ~~Do 6~~
+  + Do 7, but wait until meeting with WestGrid Director (Wed June 29)
 + Assignments
   + ~~Second half of 3~~
   + ~~Do 4~~
-  + ~~Do 5~~
-  + Do 6
-  + Do 7
+  + ~~Do 5a~~
+  + ~~Do 5b~~
+  + ~~Do 6~~
+  + Do 7, but wait until meeting with WestGrid Director (Wed June 29)
 + Videos
   + ~~Do 1~~ Edit 1 together (p1, p2, p3)
   + Do 1a (MobaXterm on PC)
@@ -22,10 +23,32 @@
   + Do 5a
   + Do 5b
   + Do 6
-  + Do 7
+  + Do 7, But wait until meeting with WestGrid Director (Wed June 29)
 
 ###### ToDo June 24th, Complete by June 30th
++ Finish above
++ Write exam for Section I
++ Figure out running in partition for queue (Wed June 29)
 
+###### ToDo before July 8th 
+> Looking forward to Section II
+
+VarCalling:
++ Install and run BWA-mem
++ Generate variant list?  Or just use the one that bowtie provided from lambda?
++ Run Variant caller samtools mpileup
+ 
+RNA-seq
++ Install and run tophat2-->cufflinks pipeline
+
+
+Assembly
++ Gather data from G3 bioethanol strain paper
++ Re-run assembly pipeline
+
+Ty1 Insertions
++ Gather example data from paper Vivien sent
++ Rerun analysis
 
 
 

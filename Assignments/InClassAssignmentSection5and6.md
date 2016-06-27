@@ -21,6 +21,7 @@
 3. Load the reads you just mapped to the lambda genome in IGV
 4. Take a snapshot of the mapped reads, and email this snapshot plus the shell script from Part I to: phillip.a.richmond@gmail.com
 
-
-
+### Part III (Project Organization)
+1. Reorganize your Assignment 5 directory using the scheme in the slides from Section I-6.
+2. Create a README.txt file in every directory detailing where you got the files from, and the date at which you got them.
 
