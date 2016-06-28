@@ -20,8 +20,8 @@
   + ~~Do 3a~~ Edit 3A together (p1, p2)
   + ~~Do 3b~~ Edit beginning of 3b
   + ~~Do 4~~ On youtube
-  + Do 5a
-  + Do 5b
+  + ~~Do 5a~~
+  + ~~Do 5b~~
   + Do 6
   + Do 7, But wait until meeting with WestGrid Director (Wed June 29)
 
