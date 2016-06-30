@@ -80,14 +80,14 @@ Individual Examination
 ##### Section I: Introductions, Linux/Unix, WestGrid, Short Read Mapping, PBS Queue Scheduler
 1. Introduction to Next Generation Sequencing, Bioinformatics, and Computing
   + [Slides](https://drive.google.com/open?id=0B3TGYF-7rCLnR3VDeENSc1NHbFU)
-  + Video
+  + [Video](https://www.youtube.com/watch?v=gC2o1U9qgtg&index=3&list=PLeqoVMkuHVTckmVUIhPjWFDn2Ci2t5Z0S)
 2. Getting set-up on WestGrid and using terminal
   + Open up a terminal
   + Customize terminal
   + Login to WestGrid 
   + [Specs of Orcinus](https://www.westgrid.ca/support/systems/Orcinus)
   + [Slides](https://drive.google.com/open?id=0B3TGYF-7rCLnZU5TYzdZLUlXZG8)
-  + Video
+  + [Video](https://www.youtube.com/watch?v=kaAAhId5HD8&list=PLeqoVMkuHVTckmVUIhPjWFDn2Ci2t5Z0S&index=1)
   + [PC User MobaXterm guide]
   + [In Class Assignment Section I-2](https://github.com/Phillip-a-richmond/Bioinformatics-Introductory-Analysis-Course/blob/master/InClassAssignmentSection2.md)
 3. Exploring Linux/Unix
