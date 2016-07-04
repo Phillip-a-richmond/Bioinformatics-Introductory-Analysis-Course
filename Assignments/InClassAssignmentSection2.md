@@ -14,6 +14,8 @@
 3. What is the data storage/backup server, and how much disk-space storage is there?
 
 ### Part III
-1. Email your login username for the WestGrid compute to phillip.a.richmond@gmail.com
+1. Email Phil with: 
++ Your login username for the WestGrid compute server to phillip.a.richmond@gmail.com
++ A request for a topic on week 2, and your week 2 availability.
 
 
