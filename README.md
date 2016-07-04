@@ -10,7 +10,6 @@ https://www.westgrid.ca/support/unix_groups
 give him name of group and list of users (wg-WRC)
 
 
-
 ### Bioinformatics-Introductory-Analysis-Course
 This repository contains course material for Phillip Richmond's Introduction to Bioinformatics Analysis Course
 
@@ -116,7 +115,7 @@ Individual Examination
   + Other Secure Copy programs
     + [Cyberduck](http://download.cnet.com/Cyberduck/3000-2160_4-10246246.html)
     + [WinSCP](https://winscp.net/eng/download.php)
-  + Slides
+  + [Slides](https://drive.google.com/drive/folders/0B3TGYF-7rCLnWjFJRVlHcVN5Nk0)
   + [Video](https://youtu.be/r9zJCo42gl8)
   + [In Class Assignment](https://github.com/Phillip-a-richmond/Bioinformatics-Introductory-Analysis-Course/blob/master/InClassAssignmentSection4.md)
 5. Intro to Read Mapping
@@ -126,22 +125,24 @@ Individual Examination
     + Interpret standard error
     + Convert bam 2 sam (samtools index)
     + Sort bam (samtools sort)
+    + [Slides](https://drive.google.com/drive/folders/0B3TGYF-7rCLnWjFJRVlHcVN5Nk0)
+    + [Video]
   + Organization and file types (5b)
     + Directory Hierarchies
     + FASTQ, FASTA, SAM, BAM
-  + Slides
-  + Video
-  + In Class Assignment
+    + [Slides](https://drive.google.com/drive/folders/0B3TGYF-7rCLnWjFJRVlHcVN5Nk0)
+    + [Video]
+  + [In Class Assignment](https://github.com/Phillip-a-richmond/Bioinformatics-Introductory-Analysis-Course/blob/master/Assignments/InClassAssignmentSection5and6.md)
 6. Data visualization
   + IGV with S288c genome
-  + Slides
+  + [Slides](https://drive.google.com/drive/folders/0B3TGYF-7rCLnWjFJRVlHcVN5Nk0)
   + Video
   + In Class Assignment
 7. Interacting with the queue
   + Job Submission
   + Job Tracking
   + [WestGrid Job Running Resource](https://www.westgrid.ca/support/running_jobs)
-  + Slides
+  + [Slides](https://drive.google.com/drive/folders/0B3TGYF-7rCLnWjFJRVlHcVN5Nk0)
   + Video
   + In Class Assignment
 
