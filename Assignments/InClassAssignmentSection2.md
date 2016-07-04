@@ -13,3 +13,7 @@
 2. What is so special about these servers? (hint, look at the quickstart guide and system technical specifications)
 3. What is the data storage/backup server, and how much disk-space storage is there?
 
+### Part III
+1. Email your login username for the WestGrid compute to phillip.a.richmond@gmail.com
+
+
