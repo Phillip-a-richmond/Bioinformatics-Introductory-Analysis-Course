@@ -88,7 +88,7 @@ Individual Examination
   + [Specs of Orcinus](https://www.westgrid.ca/support/systems/Orcinus)
   + [Slides](https://drive.google.com/open?id=0B3TGYF-7rCLnZU5TYzdZLUlXZG8)
   + [Video](https://www.youtube.com/watch?v=kaAAhId5HD8&list=PLeqoVMkuHVTckmVUIhPjWFDn2Ci2t5Z0S&index=1)
-  + [PC User MobaXterm guide]
+  + [PC User MobaXterm guide](https://www.youtube.com/watch?v=Gkl8LD1rwlU)
   + [In Class Assignment Section I-2](https://github.com/Phillip-a-richmond/Bioinformatics-Introductory-Analysis-Course/blob/master/InClassAssignmentSection2.md)
 3. Exploring Linux/Unix
   + Intro to linux environment (3a)
