@@ -1,15 +1,3 @@
-Standing reservation for Vivien Measday account. (won't need list of users, but get anyways).
-There is no extra queue submission.
-
-Thursday/Friday: 9:30-12:30 32 cores @ Orcinus
-Monday-Friday: 9:30 -12:30 50?40? cores @ Bugaboo
-
-
-User groups:
-https://www.westgrid.ca/support/unix_groups
-give him name of group and list of users (wg-WRC)
-
-
 ### Bioinformatics-Introductory-Analysis-Course
 This repository contains course material for Phillip Richmond's Introduction to Bioinformatics Analysis Course
 
@@ -232,7 +220,6 @@ VarCalling:
 RNA-seq
 + Install and run tophat2-->cufflinks pipeline
 
-
 Assembly
 + Gather data from G3 bioethanol strain paper
 + Re-run assembly pipeline
@@ -241,5 +228,17 @@ Ty1 Insertions
 + Gather example data from paper Vivien sent
 + Rerun analysis
 
+
+##### NOTES for Phil
+Standing reservation for Vivien Measday account. (won't need list of users, but get anyways).
+There is no extra queue submission.
+
+Thursday/Friday: 9:30-12:30 32 cores @ Orcinus
+Monday-Friday: 9:30 -12:30 50?40? cores @ Bugaboo
+
+
+User groups:
+https://www.westgrid.ca/support/unix_groups
+give him name of group and list of users (wg-WRC)
 
 
