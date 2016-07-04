@@ -1,5 +1,5 @@
 ## Bioinformatics Introductory Analysis Course
-## SectionX: Downloading Bowtie2 and Samtools
+#### Downloading Bowtie2 and Samtools
 
 For this section, we will need to [login](https://github.com/Phillip-a-richmond/Bioinformatics-Introductory-Analysis-Course/blob/master/LoginToWestGrid.md) to our compute machine at WestGrid.  
 
