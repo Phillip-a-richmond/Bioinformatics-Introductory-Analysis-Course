@@ -22,7 +22,7 @@
 ### Part II (wc, cat, more, less, head, tail, cut, paste, grep, chmod)
   > Note: All the work for part II should take place in your Assignment 3 directory
 
-1. Copy this file into your Assignment 3 directory: /global/scratch/WRC/Assignment_3_Files/S288c.gff
+1. Copy this file into your Assignment 3 directory: /global/scratch/WRC/Data/Assignment_3_Files/S288c.gff
 2. This gff file has both sequence and annotation in it.  We only want to keep the top of this file, up until the first fasta sequence entry.  Find the first fasta sequence entry with grep. (hint, to figure out how to print the line number look at the grep manual)
 3. Create a new file that has all the annotation information, without any of the fasta sequence.  Save this file as S288c_fixed.gff  (hint, we want the top of the file all the up way up a certain line #)
 4. Extract all the annotations for chromosome twelve from this file, and save it as: S288c_chrXII.gff  (hint, Look at the grep manual, we don't want to capture any chrXIII lines)
