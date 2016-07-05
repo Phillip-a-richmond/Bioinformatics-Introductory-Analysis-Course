@@ -20,6 +20,7 @@
 5. Change the allowed maximum walltime from 15 minutes to 15 hours.
 6. Submit this script to the queue.
 7. Check the status of your script.
+8. When it's finished, forward the email you received from it's completion to Phillip.a.richmond@gmail.com
 
 
 
