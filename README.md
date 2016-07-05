@@ -114,12 +114,12 @@ Individual Examination
     + Convert bam 2 sam (samtools index)
     + Sort bam (samtools sort)
     + [Slides](https://drive.google.com/drive/folders/0B3TGYF-7rCLnWjFJRVlHcVN5Nk0)
-    + [Video]
+    + [Video](https://www.youtube.com/watch?v=MPQ7F1EfEdE&index=4&list=PLeqoVMkuHVTckmVUIhPjWFDn2Ci2t5Z0S)
   + Organization and file types (5b)
     + Directory Hierarchies
     + FASTQ, FASTA, SAM, BAM
     + [Slides](https://drive.google.com/drive/folders/0B3TGYF-7rCLnWjFJRVlHcVN5Nk0)
-    + [Video]
+    + [Video](
   + [In Class Assignment](https://github.com/Phillip-a-richmond/Bioinformatics-Introductory-Analysis-Course/blob/master/Assignments/InClassAssignmentSection5and6.md)
 6. Data visualization
   + IGV with S288c genome
