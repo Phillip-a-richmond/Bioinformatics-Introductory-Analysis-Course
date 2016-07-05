@@ -106,7 +106,7 @@ Individual Examination
   + [Slides](https://drive.google.com/drive/folders/0B3TGYF-7rCLnWjFJRVlHcVN5Nk0)
   + [Video](https://youtu.be/r9zJCo42gl8)
   + [In Class Assignment](https://github.com/Phillip-a-richmond/Bioinformatics-Introductory-Analysis-Course/blob/master/Assignments/InClassAssignmentSection4.md)
-5. Intro to Read Mapping
+5. Intro to Read Mapping and Data Visualization
   + Bowtie2 & Samtools (5a)
     + Build genome index
     + Map paired reads
@@ -115,31 +115,30 @@ Individual Examination
     + Sort bam (samtools sort)
     + [Slides](https://drive.google.com/drive/folders/0B3TGYF-7rCLnWjFJRVlHcVN5Nk0)
     + [Video](https://www.youtube.com/watch?v=MPQ7F1EfEdE&index=4&list=PLeqoVMkuHVTckmVUIhPjWFDn2Ci2t5Z0S)
-  + Organization and file types (5b)
-    + Directory Hierarchies
-    + FASTQ, FASTA, SAM, BAM
+  + Data visualization (5b)
+    + Integrative Genomics Viewer (IGV)
     + [Slides](https://drive.google.com/drive/folders/0B3TGYF-7rCLnWjFJRVlHcVN5Nk0)
     + [Video](https://youtu.be/LDD8PKKtWuY)
   + [In Class Assignment](https://github.com/Phillip-a-richmond/Bioinformatics-Introductory-Analysis-Course/blob/master/Assignments/InClassAssignmentSection5and6.md)
-6. Data visualization
-  + IGV with S288c genome
-  + [Slides](https://drive.google.com/drive/folders/0B3TGYF-7rCLnWjFJRVlHcVN5Nk0)
-  + [Video]
-  + In Class Assignment
+6. Organization and file naming 
+  + Hierarchical organization
+  + File naming and suffixes
+  + [Slides]()
+  + [Video]()
+  
 7. Interacting with the queue
   + Job Submission
   + Job Tracking
   + [WestGrid Job Running Resource](https://www.westgrid.ca/support/running_jobs)
   + [Slides](https://drive.google.com/drive/folders/0B3TGYF-7rCLnWjFJRVlHcVN5Nk0)
-  + [Video]
+  + [Video](
   + In Class Assignment
 
 ##### In class test
 > The in-class test will be an individual examination, so you won't be able to work together in groups for it.  The test will be comprehensive for all the things we learned in Section I, and if you are able to complete the assignments for each section, then the test should take only ~ 30 minutes.  You will have a 2 hour block to complete the test.  If you are unable to do so, then you won't be able to move on to Section II.  
 
 ##### Section II: Introduction to Applied Genomics: Variant Calling, Assembly, RNAseq
-8. Intro to NCBI BLAST, SRA
-  + BLAST
+8. Getting data from the SRA
   + Slides
   + Video
   + In Class Assignment
@@ -163,6 +162,7 @@ Individual Examination
   + Slides
   + Video
   + In Class Assignment
+
 ##### Section III: BYOD (Bring your own datasets)
 This section is open to those who want to explore their own datasets and receive help with processing and data analysis.  
 
