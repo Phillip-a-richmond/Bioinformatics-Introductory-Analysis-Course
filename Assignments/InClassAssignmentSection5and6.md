@@ -2,7 +2,7 @@
 >This section will focus on the basic operations that you will use in the linux/unix environment, all run from the terminal.
 
 ### Part I (Read mapping of lambda paired end reads)
-1. Create an Assignment 5 directory called: <LastName>_Assignment5
+1. Create an Assignment 5 directory called: \<LastName\>_Assignment5
 2. Copy the files from:  /global/scratch/WRC/Data/Assignment_5_Files/ into your Assignment 5 directory
 3. Using bowtie2-build, create a new index of the lambda genome called Assignment5_Lambda_Bowtie2_Index
 4. Map the paired end reads (Assignment_5_1.fq, Assignment_5_2.fq) back to the reference genome
