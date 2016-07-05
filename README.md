@@ -83,11 +83,11 @@ Individual Examination
     + Man pages
     + File creation
     + [Slides](https://drive.google.com/open?id=0B3TGYF-7rCLncEZPbVFqa29nWUE)
-    + Video
+    + [Video](https://www.youtube.com/watch?v=pxxt8PrStio&feature=youtu.be)
   + Intermediate Linux commands (3b)
     + head, tail, sort, cut, paste, df, du, grep, find, permissions
     + [Slides](https://drive.google.com/open?id=0B3TGYF-7rCLnbFRFNk03V0h6QkE)
-    + Video
+    + [Video](https://www.youtube.com/watch?v=08g3HZb0NRw)
   + [In Class Assignment Section I-3](https://github.com/Phillip-a-richmond/Bioinformatics-Introductory-Analysis-Course/blob/master/Assignments/InClassAssignmentSection3.md)
   + For more practice, do [these exercises](http://www.ee.surrey.ac.uk/Teaching/Unix/index.html)
 4. Advanced Linux/Unix
