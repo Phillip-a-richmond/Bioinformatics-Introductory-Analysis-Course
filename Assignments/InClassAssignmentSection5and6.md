@@ -11,7 +11,7 @@
 7. Convert the output sam file into bam format using samtools
 8. Sort the bam file using samtools
 9. Index the bam file using samtools
-10. Copy all the commands you ran above into a shell script, and call it: <LastName>_Process_Assignment_5.sh
+10. Copy all the commands you ran above into a shell script, and call it: \<LastName\>_Process_Assignment_5.sh
 11. Execute the shell script to make sure it works
 
 
