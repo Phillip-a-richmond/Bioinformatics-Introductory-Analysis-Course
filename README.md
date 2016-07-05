@@ -119,19 +119,19 @@ Individual Examination
     + Directory Hierarchies
     + FASTQ, FASTA, SAM, BAM
     + [Slides](https://drive.google.com/drive/folders/0B3TGYF-7rCLnWjFJRVlHcVN5Nk0)
-    + [Video](
+    + [Video](https://youtu.be/LDD8PKKtWuY)
   + [In Class Assignment](https://github.com/Phillip-a-richmond/Bioinformatics-Introductory-Analysis-Course/blob/master/Assignments/InClassAssignmentSection5and6.md)
 6. Data visualization
   + IGV with S288c genome
   + [Slides](https://drive.google.com/drive/folders/0B3TGYF-7rCLnWjFJRVlHcVN5Nk0)
-  + Video
+  + [Video]
   + In Class Assignment
 7. Interacting with the queue
   + Job Submission
   + Job Tracking
   + [WestGrid Job Running Resource](https://www.westgrid.ca/support/running_jobs)
   + [Slides](https://drive.google.com/drive/folders/0B3TGYF-7rCLnWjFJRVlHcVN5Nk0)
-  + Video
+  + [Video]
   + In Class Assignment
 
 ##### In class test
