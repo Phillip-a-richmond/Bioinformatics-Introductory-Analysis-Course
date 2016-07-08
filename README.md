@@ -123,8 +123,8 @@ Individual Examination
 6. Organization and file naming 
   + Hierarchical organization
   + File naming and suffixes
-  + [Slides]()
-  + [Video]()
+  + [Slides](https://drive.google.com/drive/folders/0B3TGYF-7rCLnWjFJRVlHcVN5Nk0)
+  + [Video](https://www.youtube.com/watch?v=vwoEZ-KU1ds&index=8&list=PLeqoVMkuHVTckmVUIhPjWFDn2Ci2t5Z0S)
   
 7. Interacting with the queue
   + Job Submission
