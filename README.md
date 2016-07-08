@@ -132,7 +132,7 @@ Individual Examination
   + [WestGrid Job Running Resource](https://www.westgrid.ca/support/running_jobs)
   + [Slides](https://drive.google.com/drive/folders/0B3TGYF-7rCLnWjFJRVlHcVN5Nk0)
   + [Video](
-  + In Class Assignment
+  + [In Class Assignment](https://github.com/Phillip-a-richmond/Bioinformatics-Introductory-Analysis-Course/blob/master/Assignments/InClassAssignmentSection7.md)
 
 ##### In class test
 > The in-class test will be an individual examination, so you won't be able to work together in groups for it.  The test will be comprehensive for all the things we learned in Section I, and if you are able to complete the assignments for each section, then the test should take only ~ 30 minutes.  You will have a 2 hour block to complete the test.  If you are unable to do so, then you won't be able to move on to Section II.  
