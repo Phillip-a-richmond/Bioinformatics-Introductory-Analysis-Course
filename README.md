@@ -138,8 +138,11 @@ Individual Examination
 > The in-class test will be an individual examination, so you won't be able to work together in groups for it.  The test will be comprehensive for all the things we learned in Section I, and if you are able to complete the assignments for each section, then the test should take only ~ 30 minutes.  You will have a 2 hour block to complete the test.  If you are unable to do so, then you won't be able to move on to Section II.  
 
 ##### Section II: Introduction to Applied Genomics: Variant Calling, Assembly, RNAseq
-8. Getting data from the SRA
-  + Slides
+8. Getting data from the SRA, Raw Data QC
+  + Short read archive & fastq.dump
+  + FastQC
+  + Trimmomatic
+  + [Slides](https://drive.google.com/open?id=0B3TGYF-7rCLnOV9fMDZfTmE5cDg)
   + Video
   + In Class Assignment
 9. Variant Calling
