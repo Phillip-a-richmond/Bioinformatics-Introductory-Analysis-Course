@@ -180,37 +180,6 @@ Course Instructor | Affiliation | Email Address(es) | github ID | Phone Number
 Phillip Richmond | PhD Student, Bioinformatics, UBC | prichmond@ubc.ca or phillip.a.richmond@gmail.com | [@Phillip-a-Richmond](https://github.com/Phillip-a-richmond) | (604)655-3595
 
 
-###### ToDo June 17 2016, Complete by June 24th
-+ Slides
-  + ~~Finish  4a~~
-  + ~~Do 4b~~
-  + ~~Do 5a~~
-  + ~~Do 5b~~
-  + ~~Do 6~~
-  + Do 7, but wait until meeting with WestGrid Director (Wed June 29)
-+ Assignments
-  + ~~Second half of 3~~
-  + ~~Do 4~~
-  + ~~Do 5a~~
-  + ~~Do 5b~~
-  + ~~Do 6~~
-  + Do 7, but wait until meeting with WestGrid Director (Wed June 29)
-+ Videos
-  + ~~Do 1~~ Edit 1 together (p1, p2, p3)
-  + Do 1a (MobaXterm on PC)
-  + ~~Do 2~~ On youtube
-  + ~~Do 3a~~ Edit 3A together (p1, p2)
-  + ~~Do 3b~~ Edit beginning of 3b
-  + ~~Do 4~~ On youtube
-  + ~~Do 5a~~
-  + ~~Do 5b~~
-  + Do 6
-  + Do 7, But wait until meeting with WestGrid Director (Wed June 29)
-
-###### ToDo June 24th, Complete by June 30th
-+ Finish above
-+ Write exam for Section I
-+ Figure out running in partition for queue (Wed June 29)
 
 ###### ToDo before July 8th 
 > Looking forward to Section II
