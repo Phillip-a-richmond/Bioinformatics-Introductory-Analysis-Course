@@ -145,23 +145,36 @@ Individual Examination
   + [Slides](https://drive.google.com/open?id=0B3TGYF-7rCLnOV9fMDZfTmE5cDg)
   + Video
   + In Class Assignment
-9. Variant Calling
+9. Variant Calling (Saccharomyces cerevisiae)
+  + Map with BWA
   + Samtools mpileup
+  + Visualize in IGV
   + Slides
   + Video
   + In Class Assignment
-10. RNAseq
-  + Bowtie2
-  + HTSeq
-  + DESeq2
-  + EdgeR
+10. RNAseq (wine grape)
+  + TopHat
+  + Cufflinks
   + Slides
   + Video
   + In Class Assignment
-11. Transcription factor binding via ChIP-seq 
-12. Genome Assembly
+11. Genome Assembly
   + Velvet
   + Abyss
+  + Slides
+  + Video
+  + In Class Assignment
+12. Transcriptome Assembly
+  + Trinity
+  + Trans-Abyss
+  + Slides
+  + Video
+  + In Class Assignment
+13. Transcription factor binding via ChIP-seq 
+  + Map reads
+  + Call peaks using MACS
+  + Look for enriched TFs using MEME
+  + Compare TF hits to database using TOMTOM
   + Slides
   + Video
   + In Class Assignment
