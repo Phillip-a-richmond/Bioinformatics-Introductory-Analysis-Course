@@ -145,19 +145,21 @@ Individual Examination
   + [Slides](https://drive.google.com/open?id=0B3TGYF-7rCLnOV9fMDZfTmE5cDg)
   + Video
   + In Class Assignment
-9. Variant Calling (Saccharomyces cerevisiae)
+9. RNAseq (grape vine) (Wednesday & Thursday)
+  + TopHat
+  + Cufflinks
+  + [Slides](https://drive.google.com/open?id=0B3TGYF-7rCLnajRqS3otbU9BQjQ)
+  + Video
+  + In Class Assignment
+10. Variant Calling (Saccharomyces cerevisiae) (Friday)
   + Map with BWA
   + Samtools mpileup
   + Visualize in IGV
   + Slides
   + Video
   + In Class Assignment
-10. RNAseq (wine grape)
-  + TopHat
-  + Cufflinks
-  + Slides
-  + Video
-  + In Class Assignment
+
+Next week
 11. Genome Assembly
   + Velvet
   + Abyss
@@ -170,6 +172,9 @@ Individual Examination
   + Slides
   + Video
   + In Class Assignment
+
+
+Optional
 13. Transcription factor binding via ChIP-seq 
   + Map reads
   + Call peaks using MACS
