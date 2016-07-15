@@ -148,7 +148,7 @@ Individual Examination
 9. RNAseq (grape vine) (Wednesday & Thursday)
   + TopHat
   + Cufflinks
-  + [Slides](https://drive.google.com/open?id=0B3TGYF-7rCLnajRqS3otbU9BQjQ)
+  + [Slides](https://drive.google.com/open?id=0B3TGYF-7rCLnNjBiTGxYZFdIVVE)
   + Video
   + In Class Assignment
 10. Variant Calling (Saccharomyces cerevisiae) (Friday)
