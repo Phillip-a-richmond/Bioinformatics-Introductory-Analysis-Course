@@ -13,7 +13,10 @@ fastq.dump is located here: /global/scratch/richmonp/TOOLS/sratoolkit.2.6.3-cent
 5. Run FastQC on each of the fastq files you downloaded, and interpret the results
 
 
-### Part II (Map with tophat2, assemble transcripts using cufflinks, merge with cuffmerge, and get differential expression using cuffdiff) These steps must all be completed via the queue, since the files are too large to run on the head node.
+### Part II (Map with tophat2, assemble transcripts using cufflinks, merge with cuffmerge, and get differential expression using cuffdiff) 
+> These steps must all be completed via the queue, since the files are too large to run on the head node.
+> There are example PBS scripts for these commands in: /global/scratch/richmonp/WRC/
+
 1. Map with tophat2, and alter some options including trying out:
 --b2-very-sensitive, number of mismatches, total number of alignments to report, etc.
 2. Run cufflinks per mapped bam file to generate a transcripts.gtf file
