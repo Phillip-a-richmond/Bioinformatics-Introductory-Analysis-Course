@@ -77,6 +77,7 @@ Individual Examination
   + [Video](https://www.youtube.com/watch?v=kaAAhId5HD8&list=PLeqoVMkuHVTckmVUIhPjWFDn2Ci2t5Z0S&index=1)
   + [PC User MobaXterm guide](https://www.youtube.com/watch?v=Gkl8LD1rwlU)
   + [In Class Assignment Section I-2](https://github.com/Phillip-a-richmond/Bioinformatics-Introductory-Analysis-Course/blob/master/Assignments/InClassAssignmentSection2.md)
+  + Total in class time: 30 minutes
 3. Exploring Linux/Unix
   + Intro to linux environment (3a)
     + ls, mkdir, cp, mv, rm, cat, more, less
