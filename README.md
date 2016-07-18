@@ -166,7 +166,7 @@ Individual Examination
   + Slides
   + Video
   + In Class Assignment
-  
+
 12) Transcriptome Assembly
   + Trinity
   + Trans-Abyss
