@@ -138,38 +138,38 @@ Individual Examination
 > The in-class test will be an individual examination, so you won't be able to work together in groups for it.  The test will be comprehensive for all the things we learned in Section I, and if you are able to complete the assignments for each section, then the test should take only ~ 30 minutes.  You will have a 2 hour block to complete the test.  If you are unable to do so, then you won't be able to move on to Section II.  
 
 ##### Section II: Introduction to Applied Genomics: Variant Calling, Assembly, RNAseq
-8. Getting data from the SRA, Raw Data QC
+8) Getting data from the SRA, Raw Data QC
   + Short read archive & fastq.dump
   + FastQC
   + Trimmomatic
   + [Slides](https://drive.google.com/open?id=0B3TGYF-7rCLnOV9fMDZfTmE5cDg)
   + Video
-9. RNAseq (grape vine) 
+9) RNAseq (grape vine) 
   + TopHat
   + Cufflinks --> Cuffmerge --> Cuffdiff
   + [Slides](https://drive.google.com/open?id=0B3TGYF-7rCLnNjBiTGxYZFdIVVE)
   + Video
   + [In Class Assignment](https://github.com/Phillip-a-richmond/Bioinformatics-Introductory-Analysis-Course/blob/master/Assignments/InClassAssignmentSection9.md)
-10. Variant Calling (Saccharomyces cerevisiae)
+10) Variant Calling (Saccharomyces cerevisiae)
   + Map with BWA
   + Samtools mpileup
   + Visualize in IGV
   + Slides
   + Video
   + In Class Assignment
-11. Genome Assembly
+11) Genome Assembly
   + Velvet
   + Abyss
   + Slides
   + Video
   + In Class Assignment
-12. Transcriptome Assembly
+12) Transcriptome Assembly
   + Trinity
   + Trans-Abyss
   + Slides
   + Video
   + In Class Assignment
-13. Transcription factor binding via ChIP-seq 
+13) Transcription factor binding via ChIP-seq 
   + Map reads
   + Call peaks using MACS
   + Look for enriched TFs using MEME
