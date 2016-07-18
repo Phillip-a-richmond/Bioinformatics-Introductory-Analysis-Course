@@ -157,8 +157,6 @@ Individual Examination
   + Slides
   + Video
   + In Class Assignment
-
-Next week
 11. Genome Assembly
   + Velvet
   + Abyss
@@ -171,9 +169,6 @@ Next week
   + Slides
   + Video
   + In Class Assignment
-
-
-Optional
 13. Transcription factor binding via ChIP-seq 
   + Map reads
   + Call peaks using MACS
