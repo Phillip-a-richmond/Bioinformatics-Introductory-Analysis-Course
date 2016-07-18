@@ -144,12 +144,14 @@ Individual Examination
   + Trimmomatic
   + [Slides](https://drive.google.com/open?id=0B3TGYF-7rCLnOV9fMDZfTmE5cDg)
   + Video
+  
 9) RNAseq (grape vine) 
   + TopHat
   + Cufflinks --> Cuffmerge --> Cuffdiff
   + [Slides](https://drive.google.com/open?id=0B3TGYF-7rCLnNjBiTGxYZFdIVVE)
   + Video
   + [In Class Assignment](https://github.com/Phillip-a-richmond/Bioinformatics-Introductory-Analysis-Course/blob/master/Assignments/InClassAssignmentSection9.md)
+  
 10) Variant Calling (Saccharomyces cerevisiae)
   + Map with BWA
   + Samtools mpileup
@@ -157,18 +159,21 @@ Individual Examination
   + Slides
   + Video
   + In Class Assignment
+  
 11) Genome Assembly
   + Velvet
   + Abyss
   + Slides
   + Video
   + In Class Assignment
+  
 12) Transcriptome Assembly
   + Trinity
   + Trans-Abyss
   + Slides
   + Video
   + In Class Assignment
+  
 13) Transcription factor binding via ChIP-seq 
   + Map reads
   + Call peaks using MACS
