@@ -131,7 +131,7 @@ Individual Examination
   + Job Tracking
   + [WestGrid Job Running Resource](https://www.westgrid.ca/support/running_jobs)
   + [Slides](https://drive.google.com/drive/folders/0B3TGYF-7rCLnWjFJRVlHcVN5Nk0)
-  + [Video](
+  + [Video](https://www.youtube.com/watch?v=pde6fk8wqr4&feature=youtu.be)
   + [In Class Assignment](https://github.com/Phillip-a-richmond/Bioinformatics-Introductory-Analysis-Course/blob/master/Assignments/InClassAssignmentSection7.md)
 
 ##### In class test
@@ -144,14 +144,13 @@ Individual Examination
   + Trimmomatic
   + [Slides](https://drive.google.com/open?id=0B3TGYF-7rCLnOV9fMDZfTmE5cDg)
   + Video
-  + In Class Assignment
-9. RNAseq (grape vine) (Wednesday & Thursday)
+9. RNAseq (grape vine) 
   + TopHat
-  + Cufflinks
+  + Cufflinks --> Cuffmerge --> Cuffdiff
   + [Slides](https://drive.google.com/open?id=0B3TGYF-7rCLnNjBiTGxYZFdIVVE)
   + Video
-  + In Class Assignment
-10. Variant Calling (Saccharomyces cerevisiae) (Friday)
+  + [In Class Assignment](https://github.com/Phillip-a-richmond/Bioinformatics-Introductory-Analysis-Course/blob/master/Assignments/InClassAssignmentSection9.md)
+10. Variant Calling (Saccharomyces cerevisiae)
   + Map with BWA
   + Samtools mpileup
   + Visualize in IGV
