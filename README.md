@@ -144,20 +144,21 @@ The course is intended for academic researchers at Canadian institutions in West
 
 ##### Section II: Introduction to Applied Genomics: Acquiring Data, Raw data QC, Variant Calling, Assembly, RNAseq
 **NOTE** For section II, you will need to ask WestGrid for special access to the high memory servers: Hungabee, Breezy. 
-Email: Support@Westgrid.ca
-8) Getting data from the SRA, Raw Data QC
-  + Short read archive & fastq.dump
-  + FastQC
-  + Trimmomatic
-  + [Slides](https://drive.google.com/open?id=0B3TGYF-7rCLnOV9fMDZfTmE5cDg)
-  + Video
+Email: Support@Westgrid.ca 
+
+8) Getting data from the SRA, Raw Data QC 
+  + Short read archive & fastq.dump 
+  + FastQC 
+  + Trimmomatic 
+  + [Slides](https://drive.google.com/open?id=0B3TGYF-7rCLnOV9fMDZfTmE5cDg) 
+  + Video 
 9) RNAseq (grape vine) 
   + TopHat
   + Cufflinks --> Cuffmerge --> Cuffdiff
   + [Slides](https://drive.google.com/open?id=0B3TGYF-7rCLnNjBiTGxYZFdIVVE)
   + Video
-  + [In Class Assignment](https://github.com/Phillip-a-richmond/Bioinformatics-Introductory-Analysis-Course/blob/master/Assignments/InClassAssignmentSection9.md)
-10) Transposon Insertion Profiling (TIP-seq)
+  + [In Class Assignment](https://github.com/Phillip-a-richmond/Bioinformatics-Introductory-Analysis-Course/blob/master/Assignments/InClassAssignmentSection9.md) 
+10) Transposon Insertion Profiling (TIP-seq) 
   + Initial Processing (10a)
     + Clean up reads
     + Map with BWA
@@ -165,27 +166,27 @@ Email: Support@Westgrid.ca
     + Remove duplicates
     + Visualize
     + Slides
-    + Video
-  + Differential Insertion (10b)
+    + Video 
+  + Differential Insertion (10b) 
     + Call Peaks
     + Differential Insertion Analysis
     + Slides
-    + Video
-11) Transcriptome Assembly
+    + Video 
+11) Transcriptome Assembly  
   + Trinity
   + Trans-Abyss
   + Slides
   + Video
-  + In Class Assignment
-12) Variant Calling (Saccharomyces cerevisiae)
+  + In Class Assignment 
+12) Variant Calling (Saccharomyces cerevisiae) 
   + Map with BWA
   + Samtools mpileup
   + Picard MarkDuplicates
   + Samtools Unique Reads
   + Visualize in IGV
   + Slides
-  + Video
-  + In Class Assignment
+  + Video 
+  + In Class Assignment 
 
 ##### Section III: BYOD (Bring your own datasets)
 This section is open to those who want to explore their own datasets and receive help with processing and data analysis.  
