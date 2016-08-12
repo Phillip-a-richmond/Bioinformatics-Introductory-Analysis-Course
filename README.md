@@ -4,6 +4,8 @@ This website contains the course material for Phillip Richmond's Introduction to
 #### Course Purpose
 >The purpose of this course is to provide an introduction to Bioinformatics and Genomics as it pertains to short-read sequencing analysis, with a specific focus on brewing and fermentation yeast strains.  Taught in an inverted classroom format, there will be screencasts and lecture notes for each section that can be gone through independently, and in class we will simply work on example datasets and problem sets.
 
+***
+
 #### General Course Information & Prerequisites
 The course is intended for academic researchers at Canadian institutions in Western Canada, that have access to nationally supported Research Computing through Compute Canada, specifically the WestGrid branch.
 
@@ -37,30 +39,28 @@ The course is intended for academic researchers at Canadian institutions in West
       + [Software available](https://www.westgrid.ca/support/software/)
       
 
+***
 
 #### Course Schedule (Round 2!  Vivien and Simone) FNH100A
-Monday August 15th, 2016.
-2:00 PM - 4:00 PM.
-Section I-1, Section I-2, Section I-3a
+1. Monday August 15th, 2016.  
+  2:00 PM - 4:00 PM.  
+  Section I-1, Section I-2, Section I-3a  
 
-Tuesday August 16th, 2016 
-9:30 AM - 11:30 AM 
-Videos to watch before class: 
-Section I-3a finish, Section I-3b
+2. Tuesday August 16th, 2016  
+  9:30 AM - 11:30 AM  
+  Section I-3a finish, Section I-3b 
 
-Wednesday August 17th, 2016 
-9:30 AM - 11:30 AM
-Videos to watch before class: 
-Section I-4
+3. Wednesday August 17th, 2016  
+  9:30 AM - 11:30 AM  
+  Section I-4 
 
-Thursday August 18th, 2016
-9:30 AM - 11:30 AM
-Video to watch before class:
-Section I-5, I-6
+4. Thursday August 18th, 2016 
+  9:30 AM - 11:30 AM 
+  Section I-5, I-6 
 
-Friday August 19th, 2016
-9:30 AM - 11:30 AM
-Section I-7
+5. Friday August 19th, 2016 
+  9:30 AM - 11:30 AM 
+  Section I-7 
 
 
 
