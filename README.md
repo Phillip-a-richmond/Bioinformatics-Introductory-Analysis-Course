@@ -36,30 +36,29 @@ This repository contains course material for Phillip Richmond's Introduction to 
       
 
 
-#### Course Schedule
-Monday July 4th, 2016.
-10:00 AM - 12:00 PM.
-Videos to watch before class.
-Section I-1 and Section I-2
+#### Course Schedule (Round 2!  Vivien and Simone) FNH100A
+Monday August 15th, 2016.
+2:00 PM - 4:00 PM.
+Section I-1, Section I-2, Section I-3a
 
-Tuesday July 5th, 2016 
-10:00 AM - 12:00 PM 
+Tuesday August 16th, 2016 
+9:30 AM - 11:30 AM 
 Videos to watch before class: 
-Section I-3a, Section I-3b, Section I-4 
+Section I-3a finish, Section I-3b
 
-Wednesday July 6th, 2016 
-10:00 AM - 12:00 PM 
+Wednesday August 17th, 2016 
+9:30 AM - 11:30 AM
 Videos to watch before class: 
-Section I-5a, Section I-5b, and Section I-6 
+Section I-4
 
-Thursday July 7th, 2016
-10:00 AM - 12:00 PM
+Thursday August 18th, 2016
+9:30 AM - 11:30 AM
 Video to watch before class:
-Section I-7 and catchup/review
+Section I-5, I-6
 
-Friday July 8th, 2016
-10:00 AM - 12:00 PM
-Individual Examination
+Friday August 19th, 2016
+9:30 AM - 11:30 AM
+Section I-7
 
 
 
