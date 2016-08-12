@@ -53,14 +53,14 @@ The course is intended for academic researchers at Canadian institutions in West
 3. Wednesday August 17th, 2016  
   9:30 AM - 11:30 AM  
   Section I-4 
+ 
+4. Thursday August 18th, 2016  
+   9:30 AM - 11:30 AM  
+   Section I-5, I-6  
 
-4. Thursday August 18th, 2016 
-  9:30 AM - 11:30 AM 
-  Section I-5, I-6 
-
-5. Friday August 19th, 2016 
-  9:30 AM - 11:30 AM 
-  Section I-7 
+5. Friday August 19th, 2016  
+   9:30 AM - 11:30 AM  
+   Section I-7  
 
 
 
