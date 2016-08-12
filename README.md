@@ -146,20 +146,20 @@ The course is intended for academic researchers at Canadian institutions in West
 **NOTE** For section II, you will need to ask WestGrid for special access to the high memory servers: Hungabee, Breezy. 
 Email: Support@Westgrid.ca 
 
-8. Getting data from the SRA, Raw Data QC 
+1. Getting data from the SRA, Raw Data QC 
   + Short read archive & fastq.dump 
   + FastQC 
   + Trimmomatic 
   + [Slides](https://drive.google.com/open?id=0B3TGYF-7rCLnOV9fMDZfTmE5cDg) 
   + Video  
-9. RNAseq (grape vine) 
+2. RNAseq (grape vine) 
   + TopHat
   + Cufflinks --> Cuffmerge --> Cuffdiff
   + [Slides](https://drive.google.com/open?id=0B3TGYF-7rCLnNjBiTGxYZFdIVVE)
   + Video
   + [In Class Assignment](https://github.com/Phillip-a-richmond/Bioinformatics-Introductory-Analysis-Course/blob/master/Assignments/InClassAssignmentSection9.md) 
-10. Transposon Insertion Profiling (TIP-seq) 
-  + Initial Processing (10a)
+3. Transposon Insertion Profiling (TIP-seq) 
+  + Initial Processing (3a)
     + Clean up reads
     + Map with BWA
     + Samtools Unique mapped
@@ -167,18 +167,18 @@ Email: Support@Westgrid.ca
     + Visualize
     + Slides
     + Video 
-  + Differential Insertion (10b) 
+  + Differential Insertion (3b) 
     + Call Peaks
     + Differential Insertion Analysis
     + Slides
     + Video 
-11. Transcriptome Assembly  
+4. Transcriptome Assembly  
   + Trinity
   + Trans-Abyss
   + Slides
   + Video
   + In Class Assignment 
-12. Variant Calling (Saccharomyces cerevisiae) 
+5. Variant Calling (Saccharomyces cerevisiae) 
   + Map with BWA
   + Samtools mpileup
   + Picard MarkDuplicates
