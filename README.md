@@ -62,7 +62,7 @@ The course is intended for academic researchers at Canadian institutions in West
    9:30 AM - 11:30 AM  
    Section I-7  
 
-
+***
 
 #### Course Outline
 ##### Section I: Introductions, Linux/Unix, WestGrid, Short Read Mapping, PBS Queue Scheduler
@@ -135,51 +135,54 @@ The course is intended for academic researchers at Canadian institutions in West
   + [Video](https://www.youtube.com/watch?v=pde6fk8wqr4&feature=youtu.be)
   + [In Class Assignment](https://github.com/Phillip-a-richmond/Bioinformatics-Introductory-Analysis-Course/blob/master/Assignments/InClassAssignmentSection7.md)
 
+***
+
 ##### In class test
 > The in-class test will be an individual examination, so you won't be able to work together in groups for it.  The test will be comprehensive for all the things we learned in Section I, and if you are able to complete the assignments for each section, then the test should take only ~ 30 minutes.  You will have a 2 hour block to complete the test.  If you are unable to do so, then you won't be able to move on to Section II.  
 
-##### Section II: Introduction to Applied Genomics: Variant Calling, Assembly, RNAseq
+***
+
+##### Section II: Introduction to Applied Genomics: Acquiring Data, Raw data QC, Variant Calling, Assembly, RNAseq
+**NOTE** For section II, you will need to ask WestGrid for special access to the high memory servers: Hungabee, Breezy. 
+Email: Support@Westgrid.ca
 8) Getting data from the SRA, Raw Data QC
   + Short read archive & fastq.dump
   + FastQC
   + Trimmomatic
   + [Slides](https://drive.google.com/open?id=0B3TGYF-7rCLnOV9fMDZfTmE5cDg)
   + Video
-  
 9) RNAseq (grape vine) 
   + TopHat
   + Cufflinks --> Cuffmerge --> Cuffdiff
   + [Slides](https://drive.google.com/open?id=0B3TGYF-7rCLnNjBiTGxYZFdIVVE)
   + Video
   + [In Class Assignment](https://github.com/Phillip-a-richmond/Bioinformatics-Introductory-Analysis-Course/blob/master/Assignments/InClassAssignmentSection9.md)
-  
-10) Variant Calling (Saccharomyces cerevisiae)
-  + Map with BWA
-  + Samtools mpileup
-  + Visualize in IGV
-  + Slides
-  + Video
-  + In Class Assignment
-  
-11) Genome Assembly
-  + Velvet
-  + Abyss
-  + Slides
-  + Video
-  + In Class Assignment
-
-12) Transcriptome Assembly
+10) Transposon Insertion Profiling (TIP-seq)
+  + Initial Processing (10a)
+    + Clean up reads
+    + Map with BWA
+    + Samtools Unique mapped
+    + Remove duplicates
+    + Visualize
+    + Slides
+    + Video
+  + Differential Insertion (10b)
+    + Call Peaks
+    + Differential Insertion Analysis
+    + Slides
+    + Video
+11) Transcriptome Assembly
   + Trinity
   + Trans-Abyss
   + Slides
   + Video
   + In Class Assignment
-  
-13) Transcription factor binding via ChIP-seq 
-  + Map reads
-  + Call peaks using MACS
-  + Look for enriched TFs using MEME
-  + Compare TF hits to database using TOMTOM
+12) Variant Calling (Saccharomyces cerevisiae)
+  + Map with BWA
+  + Samtools mpileup
+  + Picard MarkDuplicates
+  + Samtools Unique Reads
+  + Visualize in IGV
   + Slides
   + Video
   + In Class Assignment
@@ -188,7 +191,7 @@ The course is intended for academic researchers at Canadian institutions in West
 This section is open to those who want to explore their own datasets and receive help with processing and data analysis.  
 
 
-
+***
 
 
 Feedback?  Suggestions?  Don't hesitate to contact me:
@@ -196,39 +199,4 @@ Feedback?  Suggestions?  Don't hesitate to contact me:
 Course Instructor | Affiliation | Email Address(es) | github ID | Phone Number
 --- | --- | --- | --- | ---
 Phillip Richmond | PhD Student, Bioinformatics, UBC | prichmond@ubc.ca or phillip.a.richmond@gmail.com | [@Phillip-a-Richmond](https://github.com/Phillip-a-richmond) | (604)655-3595
-
-
-
-###### ToDo before July 8th 
-> Looking forward to Section II
-
-VarCalling:
-+ Install and run BWA-mem
-+ Generate variant list?  Or just use the one that bowtie provided from lambda?
-+ Run Variant caller samtools mpileup
- 
-RNA-seq
-+ Install and run tophat2-->cufflinks pipeline
-
-Assembly
-+ Gather data from G3 bioethanol strain paper
-+ Re-run assembly pipeline
-
-Ty1 Insertions
-+ Gather example data from paper Vivien sent
-+ Rerun analysis
-
-
-##### NOTES for Phil
-Standing reservation for Vivien Measday account. (won't need list of users, but get anyways).
-There is no extra queue submission.
-
-Thursday/Friday: 9:30-12:30 32 cores @ Orcinus
-Monday-Friday: 9:30 -12:30 50?40? cores @ Bugaboo
-
-
-User groups:
-https://www.westgrid.ca/support/unix_groups
-give him name of group and list of users (wg-WRC)
-
 
