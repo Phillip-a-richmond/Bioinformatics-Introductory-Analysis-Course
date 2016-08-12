@@ -1,5 +1,5 @@
 ### Bioinformatics-Introductory-Analysis-Course
-This website contains the course material for Phillip Richmond's Introduction to Bioinformatics Analysis Course.  
+Welcome to Introduction to Bioinformatics Analysis, a course taught by Phillip A Richmond.  
 
 #### Course Purpose
 >The purpose of this course is to provide an introduction to Bioinformatics and Genomics as it pertains to short-read sequencing analysis, with a specific focus on brewing and fermentation yeast strains.  Taught in an inverted classroom format, there will be screencasts and lecture notes for each section that can be gone through independently, and in class we will simply work on example datasets and problem sets.
