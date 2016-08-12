@@ -122,15 +122,14 @@ The course is intended for academic researchers at Canadian institutions in West
     + [Slides](https://drive.google.com/drive/folders/0B3TGYF-7rCLnWjFJRVlHcVN5Nk0)
     + [Video](https://youtu.be/LDD8PKKtWuY)
   + [In Class Assignment](https://github.com/Phillip-a-richmond/Bioinformatics-Introductory-Analysis-Course/blob/master/Assignments/InClassAssignmentSection5and6.md)
-6. Organization and file naming 
-  + Hierarchical organization
-  + File naming and suffixes
-  + [Slides](https://drive.google.com/drive/folders/0B3TGYF-7rCLnWjFJRVlHcVN5Nk0)
-  + [Video](https://www.youtube.com/watch?v=vwoEZ-KU1ds&index=8&list=PLeqoVMkuHVTckmVUIhPjWFDn2Ci2t5Z0S)
-  
-7. Interacting with the queue
-  + Job Submission
-  + Job Tracking
+6. Organization and file naming  
+  + Hierarchical organization 
+  + File naming and suffixes 
+  + [Slides](https://drive.google.com/drive/folders/0B3TGYF-7rCLnWjFJRVlHcVN5Nk0) 
+  + [Video](https://www.youtube.com/watch?v=vwoEZ-KU1ds&index=8&list=PLeqoVMkuHVTckmVUIhPjWFDn2Ci2t5Z0S) 
+7. Interacting with the queue 
+  + Job Submission 
+  + Job Tracking 
   + [WestGrid Job Running Resource](https://www.westgrid.ca/support/running_jobs)
   + [Slides](https://drive.google.com/drive/folders/0B3TGYF-7rCLnWjFJRVlHcVN5Nk0)
   + [Video](https://www.youtube.com/watch?v=pde6fk8wqr4&feature=youtu.be)
