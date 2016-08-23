@@ -30,7 +30,7 @@ The course is intended for academic researchers at Canadian institutions in West
       + [vi cheat sheet](http://www.lagmonster.org/docs/vi.html) 
       + [nano cheat sheet](http://www.codexpedia.com/text-editor/nano-text-editor-command-cheatsheet/) 
     + File transfer programs  
-      + [Cyberduck](http://download.cnet.com/Cyberduck/3000-2160_4-10246246.html) 
+      + [FileZilla](https://filezilla-project.org/)
       + [WinSCP](https://winscp.net/eng/download.php) 
     + WestGrid resources 
       + [WestGrid website](https://www.westgrid.ca/) 
@@ -193,6 +193,15 @@ This section is open to those who want to explore their own datasets and receive
 
 ***
 
+## Testimonials
+
+*Need to insert some testimonials here*
+
+***
+
+## Problems, issues
+
+***
 
 Feedback?  Suggestions?  Don't hesitate to contact me:
 
