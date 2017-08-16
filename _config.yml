@@ -1,0 +1,8 @@
+title: Bioinformatics-introductory-analysis-course
+description: This website contains the course material for Phillip Richmond's Introduction to Bioinformatics Analysis Course
+google_analytics: 
+show_downloads: true
+theme: jekyll-theme-slate
+
+gems:
+  - jekyll-mentions
